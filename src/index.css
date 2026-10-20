@@ -1,0 +1,8 @@
+@import "tailwindcss";
+@plugin "daisyui" {
+  themes: light --default, cupcake;
+}
+
+@theme {
+  --font-sans: "Google Sans Flex Variable", sans-serif;
+}
