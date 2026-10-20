@@ -44,7 +44,7 @@ function App() {
     },
     {
       id: 'asi',
-      name: 'Architecture des Systèmes d\'Information (ASI)',
+      name: 'Administration des Systèmes d\'Information (ASI)',
       coef: 2,
       desc: 'Conception, modélisation et intégration des architectures des systèmes d\'information.',
       hasTD: true,
